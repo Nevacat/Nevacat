@@ -5,6 +5,8 @@
 
   <h2 align=center>🫡 Web Front-end developer</h2>
 
+ # 📕[벨로그](https://velog.io/@blackcat217)
+ # 📖[노션](https://www.notion.so/My-Daily-5b26fbf18b064734821ddbb70097bf12?pvs=4)
  
   
    ✨Tech Stack✨<br /><br />
