@@ -4,7 +4,6 @@
 <div align=center>
 
   <h2 align=center>🫡 Web Front-end developer</h2>
- <h3>현재 포트폴리오 수정 중에 있습니다. 프로젝트 관련 정보는 깃헙 Pin을 참고해주세요. 😊</h3>
 
  ## 📕[벨로그](https://velog.io/@blackcat217)
  ## 📖[노션](https://canary-troodon-a6c.notion.site/cf9c14c429f64ca284ef7ab589d6807d?pvs=4)
